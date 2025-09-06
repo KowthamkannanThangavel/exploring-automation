@@ -1,1 +1,2 @@
 This file is beign edited for implement purpose.
+A second line has been added to check the diff command from git.
